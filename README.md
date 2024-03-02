@@ -1,6 +1,6 @@
 # TERRAFORM ANYWHERE
 
-You may have found that sometimes moving across different cpu architectures in terraform is not as easy as it should be. This tool will help you to use any version of terraform no matter what architecture your cpu has. The best part is that you don't need to install anything else than docker.
+You may have realised that sometimes moving across different cpu architectures in terraform is not as easy as it should be. This tool will help you to use any version of terraform no matter what architecture your cpu has. The best part is that you don't need to install anything else rather than docker.
 
 ## INSTALLATION
 
